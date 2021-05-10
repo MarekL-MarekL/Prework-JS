@@ -1,0 +1,11 @@
+body{
+    background-color: burlywood;
+}
+h1{
+    color: blue;
+    font-size: 50px;
+}
+p{
+    color: rgb(241, 16, 16);
+    font-size: 20px;
+}
