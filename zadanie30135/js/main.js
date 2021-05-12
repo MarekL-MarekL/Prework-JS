@@ -1,10 +1,12 @@
 let n=5;
-let k=14;
+let k=15;
 
-function sprawdz(){
-    if (n==20||k===20||k+n<=20) {
+function sprawdz(a,b){
+    if (a===20||b===20||a+b<=20) {
         console.log("true");
     }
     else{console.log("false");}
 }
-sprawdz();
+sprawdz(n,k);
+
+
